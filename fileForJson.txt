@@ -1,0 +1,1 @@
+{"data":[{"title":"МЯУ МЯУ","amountStr":345,"datePublish":2011,"genre":"комедия","author":{"surnameAuthor":"Иванов","nameAuthor":"Иван","lastnameAuthor":"Иванович"},"publisher":{"namePublish":"Питерррр","cityPublish":"Санкт-Петербург"}}]}
