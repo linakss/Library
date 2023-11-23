@@ -15,7 +15,7 @@ public class Main {
         Gson gson = new Gson();
         Scanner scan = new Scanner(System.in);
         ListBooks library = new ListBooks();
-                //reader чтение строки арпр
+                //reader чтение строки арпр!!
         try{FileReader reader = new FileReader("./fileForJson.txt");
         }catch (IOException ex){
             System.out.println(ex.getMessage());

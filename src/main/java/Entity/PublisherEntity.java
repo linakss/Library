@@ -10,6 +10,6 @@ public class PublisherEntity {
 
     @Override
     public String toString() {
-        return "издательство:" + namePublish + "- " + cityPublish;
+        return "издательство:" + namePublish + " - " + cityPublish;
     }
 }

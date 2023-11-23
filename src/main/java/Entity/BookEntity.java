@@ -12,6 +12,7 @@ public class BookEntity {
     private AuthorEntity author;
     private PublisherEntity publisher;
 
+
     @Override
     public String toString() {
         return "Книга - " +
