@@ -12,4 +12,6 @@ public class AuthorEntity {
     public String toString() {
         return surnameAuthor + ' ' + nameAuthor + ' ' + lastnameAuthor + ' ';
     }
+    public AuthorEntity() {
+    }
 }
