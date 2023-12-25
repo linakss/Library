@@ -23,4 +23,6 @@ public class BookEntity {
                 " | автор: " + author.toString() +
                 " | " + publisher.toString() ;
     }
+    public BookEntity() {
+    }
 }
