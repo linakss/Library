@@ -6,5 +6,7 @@ import java.util.List;
 @Data
 public class ListBooks {
     private List data;
-
+    
+    public ListBooks() {
+    }
 }
