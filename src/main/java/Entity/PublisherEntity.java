@@ -12,4 +12,6 @@ public class PublisherEntity {
     public String toString() {
         return "издательство:" + namePublish + " - " + cityPublish;
     }
+    public PublisherEntity() {
+    }
 }
